@@ -1,64 +1,79 @@
-[22:05:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:05:21] [ServerMain/INFO]: No existing world data, creating new world
-[22:05:22] [ServerMain/INFO]: Loaded 1407 recipes
-[22:05:22] [ServerMain/INFO]: Loaded 1520 advancements
-[22:05:22] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[22:05:22] [Server thread/INFO]: Loading properties
-[22:05:22] [Server thread/INFO]: Default game type: SURVIVAL
-[22:05:22] [Server thread/INFO]: Generating keypair
-[22:05:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:05:22] [Server thread/INFO]: Using epoll channel type
-[22:05:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:05:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:05:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:05:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:05:22] [Server thread/INFO]: Preparing level "world"
-[22:05:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:05:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:05:29] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[22:05:30] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[22:05:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[22:05:31] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[22:05:31] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[22:05:32] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[22:05:32] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[22:05:33] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:05:33] [Server thread/INFO]: Time elapsed: 4504 ms
-[22:05:33] [Server thread/INFO]: Done (10.897s)! For help, type "help"
-[22:06:31] [Server thread/INFO]: tumami12414[/127.199.110.128:42059] logged in with entity id 41 at (-85.5, 77.0, 144.5)
-[22:06:31] [Server thread/INFO]: tumami12414 joined the game
-[22:07:20] [Server thread/INFO]: Bastings[/127.100.45.138:36901] logged in with entity id 557 at (-80.5, 80.0, 149.5)
-[22:07:20] [Server thread/INFO]: Bastings joined the game
-[22:09:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=73, y=64, z=223} jb{x=73, y=62, z=222}
-[22:09:54] [Server thread/INFO]: Bastings has made the advancement [Stone Age]
-[22:10:06] [Server thread/INFO]: Bastings has made the advancement [Getting an Upgrade]
-[22:10:26] [Server thread/INFO]: CarboHot[/127.195.204.176:57211] logged in with entity id 1598 at (-76.5, 79.0, 139.5)
-[22:10:26] [Server thread/INFO]: CarboHot joined the game
-[22:11:28] [Server thread/INFO]: Bastings has made the advancement [Acquire Hardware]
-[22:13:16] [Server thread/INFO]: Incorrect argument for command
-[22:13:16] [Server thread/INFO]: gamerule keepInventor false<--[HERE]
-[22:13:19] [Server thread/INFO]: [Not Secure] <Bastings> ./gamerule keepinventory false
-[22:14:15] [Server thread/INFO]: CarboHot has made the advancement [Stone Age]
-[22:14:40] [Server thread/INFO]: Bastings was slain by CarboHot
-[22:16:16] [Server thread/INFO]: CarboHot was slain by Bastings
-[22:17:27] [Server thread/INFO]: Bastings has made the advancement [Monster Hunter]
-[22:17:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:17:56] [Server thread/INFO]: difficultydifficulty hard<--[HERE]
-[22:18:07] [Server thread/INFO]: Bastings has made the advancement [Sweet Dreams]
-[22:18:07] [Server thread/INFO]: The difficulty has been set to Hard
-[22:18:26] [Server thread/INFO]: CarboHot has made the advancement [Monster Hunter]
-[22:19:11] [Server thread/INFO]: [Not Secure] <Bastings> ./gamerule porcentageplayersleeping 1
-[22:19:14] [Server thread/INFO]: tumami12414 has made the advancement [Sweet Dreams]
-[22:19:26] [Server thread/INFO]: Incorrect argument for command
-[22:19:26] [Server thread/INFO]: gamerule porcentageplayersleeping 1<--[HERE]
-[22:19:33] [Server thread/INFO]: CarboHot was slain by Bastings
-[22:19:34] [Server thread/INFO]: Incorrect argument for command
-[22:19:34] [Server thread/INFO]: gamerule porcentageplayersleeping 1[D[D[D[D[D[D<--[HERE]
-[22:19:36] [Server thread/INFO]: Incorrect argument for command
-[22:19:36] [Server thread/INFO]: gamerule porcentageplayersleeping 1<--[HERE]
-[22:19:45] [Server thread/INFO]: Incorrect argument for command
-[22:19:45] [Server thread/INFO]: gamerule porcentageplayersleeping 1<--[HERE]
-[22:20:56] [Server thread/INFO]: CarboHot has made the advancement [Getting an Upgrade]
-[22:22:08] [Server thread/INFO]: The difficulty did not change; it is already set to hard
-[22:22:59] [Server thread/INFO]: Bastings lost connection: Disconnected
-[22:22:59] [Server thread/INFO]: Bastings left the game
+[22:27:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:27:03] [ServerMain/INFO]: Loaded 1407 recipes
+[22:27:03] [ServerMain/INFO]: Loaded 1520 advancements
+[22:27:03] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:27:03] [Server thread/INFO]: Loading properties
+[22:27:03] [Server thread/INFO]: Default game type: SURVIVAL
+[22:27:03] [Server thread/INFO]: Generating keypair
+[22:27:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:27:04] [Server thread/INFO]: Using epoll channel type
+[22:27:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:27:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:27:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:27:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:27:04] [Server thread/INFO]: Preparing level "world"
+[22:27:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:27:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:27:07] [Server thread/INFO]: Time elapsed: 2623 ms
+[22:27:07] [Server thread/INFO]: Done (2.980s)! For help, type "help"
+[22:27:16] [Server thread/INFO]: tumami12414[/127.199.110.128:46833] logged in with entity id 6 at (394.69933077916306, 76.5625, -0.699999988079071)
+[22:27:16] [Server thread/INFO]: tumami12414 joined the game
+[22:27:33] [Server thread/INFO]: Incorrect argument for command
+[22:27:33] [Server thread/INFO]: gamerule playerssleepingpercentage<--[HERE]
+[22:27:35] [Server thread/INFO]: CarboHot[/127.195.204.176:45499] logged in with entity id 314 at (103.12886995810439, 63.5, 221.3272173430262)
+[22:27:35] [Server thread/INFO]: CarboHot joined the game
+[22:27:40] [Server thread/INFO]: Incorrect argument for command
+[22:27:40] [Server thread/INFO]: gamerule playerssleepingpercegamerule playerssleepingpercentage 1<--[HERE]
+[22:27:48] [Server thread/INFO]: Incorrect argument for command
+[22:27:48] [Server thread/INFO]: gamerule playerssleepingpercentage 1<--[HERE]
+[22:28:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:28:16] [Server thread/INFO]: admi tumami12414<--[HERE]
+[22:28:34] [Server thread/INFO]: Bastings[/127.100.45.138:37033] logged in with entity id 743 at (178.8658483043142, 38.0, 14.075395581752064)
+[22:28:34] [Server thread/INFO]: Bastings joined the game
+[22:28:42] [Server thread/INFO]: [Not Secure] <CarboHot> los botaron
+[22:28:44] [Server thread/INFO]: [Not Secure] <CarboHot> que onda
+[22:28:45] [Server thread/INFO]: tumami12414 fell from a high place
+[22:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=14, y=73, z=170} jb{x=15, y=71, z=170}
+[22:29:57] [Server thread/INFO]: [Not Secure] <CarboHot> los botaron
+[22:30:02] [Server thread/INFO]: [Not Secure] <tumami12414> a quien
+[22:30:02] [Server thread/INFO]: [Not Secure] <Bastings> ?
+[22:30:05] [Server thread/INFO]: [Not Secure] <CarboHot> ustedes dos
+[22:30:08] [Server thread/INFO]: [Not Secure] <tumami12414> ns no hablan
+[22:30:11] [Server thread/INFO]: [Not Secure] <CarboHot> no estan en call
+[22:30:17] [Server thread/INFO]: [Not Secure] <tumami12414> si estamos
+[22:30:20] [Server thread/INFO]: [Not Secure] <CarboHot> no
+[22:30:23] [Server thread/INFO]: Bastings has made the advancement [Isn't It Iron Pick]
+[22:30:24] [Server thread/INFO]: [Not Secure] <CarboHot> aca sale que no
+[22:31:11] [Server thread/INFO]: [Not Secure] <Bastings> wn
+[22:31:19] [Server thread/INFO]: [Not Secure] <Bastings> me sale algo raro en el discord
+[22:31:31] [Server thread/INFO]: [Not Secure] <tumami12414> reinicia el discord
+[22:32:24] [Server thread/INFO]: [Not Secure] <tumami12414> ander reinica tu discord
+[22:33:23] [Server thread/INFO]: [Not Secure] <Bastings> me sale el error desde la app y el navegador igual
+[22:33:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:33:50] [Server thread/INFO]: andres reinica tu discord<--[HERE]
+[22:34:17] [Server thread/INFO]: No player was found
+[22:34:37] [Server thread/INFO]: [Not Secure] <Bastings> como lo reinicio
+[22:34:46] [Server thread/INFO]: [Not Secure] <Bastings> me da problemas en todos lados
+[22:34:47] [Server thread/INFO]: [Not Secure] <CarboHot> no estas
+[22:34:49] [Server thread/INFO]: [Not Secure] <Bastings> wtf
+[22:34:58] [Server thread/INFO]: [Not Secure] <Bastings> en el cv?
+[22:35:00] [Server thread/INFO]: [Not Secure] <Bastings> nop
+[22:35:03] [Server thread/INFO]: [Not Secure] <CarboHot> si
+[22:35:06] [Server thread/INFO]: [Not Secure] <CarboHot> salite
+[22:35:09] [Server thread/INFO]: [Not Secure] <tumami12414> reinica tu discord
+[22:35:12] [Server thread/INFO]: [Not Secure] <tumami12414> es el discord
+[22:35:15] [Server thread/INFO]: [Not Secure] <CarboHot> y volve entrar
+[22:35:53] [Server thread/INFO]: [Not Secure] <Bastings> ya lo cerre
+[22:36:00] [Server thread/INFO]: [Not Secure] <Bastings> al abrirlo me da el problema
+[22:36:06] [Server thread/INFO]: [Not Secure] <Bastings> guilds unavailable
+[22:36:09] [Server thread/INFO]: [Not Secure] <Bastings> eso dice
+[22:36:18] [Server thread/INFO]: [Not Secure] <tumami12414> unete a mi call
+[22:36:25] [Server thread/INFO]: [Not Secure] <Bastings> no puedp
+[22:36:36] [Server thread/INFO]: [Not Secure] <CarboHot> los bota
+[22:36:39] [Server thread/INFO]: [Not Secure] <Bastings> cuando abro la app hay una pantalla q no me deja hacer nada
+[22:36:43] [Server thread/INFO]: [Not Secure] <CarboHot> cuando entra
