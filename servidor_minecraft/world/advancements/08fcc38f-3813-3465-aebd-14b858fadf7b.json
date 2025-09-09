@@ -614,6 +614,7 @@
       "minecraft:blaze": "2025-09-09 00:07:06 +0000",
       "minecraft:skeleton": "2025-09-08 22:17:27 +0000",
       "minecraft:spider": "2025-09-08 22:22:24 +0000",
+      "minecraft:wither_skeleton": "2025-09-09 00:08:02 +0000",
       "minecraft:zombie": "2025-09-08 23:25:47 +0000",
       "minecraft:creeper": "2025-09-08 23:24:27 +0000",
       "minecraft:drowned": "2025-09-08 23:13:28 +0000"
@@ -1268,9 +1269,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-09 00:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-09-08 22:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-09 00:07:38 +0000"
     },
     "done": true
   },
@@ -1445,6 +1458,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-09-08 23:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-09 00:09:17 +0000"
     },
     "done": true
   },
@@ -1748,6 +1767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-09 00:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-08 22:43:53 +0000"
@@ -1787,6 +1812,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-08 23:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-09 00:09:17 +0000"
     },
     "done": true
   },
